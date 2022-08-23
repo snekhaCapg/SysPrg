@@ -1,0 +1,12 @@
+IPC - inter process comm.
+
+pipe - 2 fds , 1-write and 0-read
+
+ipc----
+1. message queue
+2. shared mem seg
+3. semaphores
+
+
+1. message queue-> msgget
+
